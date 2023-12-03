@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1693338382 source:c:\users\hp\documents\nti\final test\main.c
+	"school.h"
+
+1693338416 c:\users\hp\documents\nti\final test\school.h
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1693338416 c:\users\hp\documents\nti\final test\types.h
+
+1693334782 source:c:\users\hp\documents\nti\1p school management system\main.c
+	"school.h"
+
+1701633840 c:\users\hp\documents\nti\1p school management system\school.h
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1693334816 c:\users\hp\documents\nti\1p school management system\types.h
+
+1701632834 source:c:\users\hp\documents\nti\1p school management system\school.c
+	<string.h>
+	"school.h"
+
